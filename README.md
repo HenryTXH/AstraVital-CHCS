@@ -9,3 +9,4 @@ AstraVital is an offline, edge-computing software application engineered for lon
 
 ## Technical Execution
 The core engine (`astravital_core.py`) is written in Python 3.x and designed to run locally on spacecraft edge hardware (such as an ARM-based SBC or Raspberry Pi). It utilizes offline data structures (immutable sets, frozen tuples, and nested dictionaries) to guarantee deterministic state management without external database dependencies.
+<img width="390" height="238" alt="image" src="https://github.com/user-attachments/assets/64eb4fd4-c423-463a-9a67-6c5931abdd91" />
