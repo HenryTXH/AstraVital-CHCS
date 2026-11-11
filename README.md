@@ -1,3 +1,4 @@
+[Dashboard_prototype.zip](https://github.com/user-attachments/files/34700652/Dashboard_prototype.zip)
 <img width="1600" height="1000" alt="AstraVital_OpenFront_Kiosk_Dashboard_Concept" src="https://github.com/user-attachments/assets/3c7ed60a-4990-4dde-9d48-c3a3922bfb74" /># AstraVital | Crew Health & Care System (CHCS)
 
 AstraVital is an offline, edge-computing software application engineered for long-duration deep-space transit. Built for the NASA Space Apps Challenge, this backend engine operates completely independently of real-time Earth cloud servers to overcome deep-space communication latency.
