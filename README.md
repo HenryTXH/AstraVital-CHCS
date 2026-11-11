@@ -14,8 +14,3 @@ The core engine (`astravital_core.py`) is written in Python 3.x and designed to 
 <svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1050" viewBox="0 0 1600 1050" role="img" aria-labelledby="title desc">
 
 
-![Upl<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000" role="img" aria-labelledby="t d">
-
-
-oading AstraVital_OpenFront_Kiosk_Dashboard_Concept.svg…]()
-
