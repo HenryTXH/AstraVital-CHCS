@@ -15,8 +15,6 @@ The core engine (`astravital_core.py`) is written in Python 3.x and designed to 
 
 ## Interactive Frontend Prototype
 [AstraVital Dashboard Prototype (HTML)](https://henrytxh.github.io/AstraVital-CHCS/)
-![Uploading AstraVital _ Crew Health & Care System (CHCS)_page-0003.jpg…]()
-![Uploading AstraVital _ Crew Health & Care System (CHCS)_page-0002.jpg…]()
 
 
 
