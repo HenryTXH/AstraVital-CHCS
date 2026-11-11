@@ -14,4 +14,4 @@ The core engine (`astravital_core.py`) is written in Python 3.x and designed to 
 <svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1050" viewBox="0 0 1600 1050" role="img" aria-labelledby="title desc">
 
 ## Interactive Frontend Prototype
-You can review the interactive user interface, self-monitoring sliders, and workflow states by opening the [AstraVital Dashboard Prototype (HTML)](AstraVital_Dashboard_Prototype.html) directly in your browser.
+You can review the interactive user interface, self-monitoring sliders, and workflow states by opening the [AstraVital Dashboard Prototype (HTML)](file:///C:/Users/henry/Downloads/astravital_dashboard_prototype.html) directly in your browser.
