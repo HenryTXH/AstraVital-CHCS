@@ -74,27 +74,7 @@ The core engine (`astravital_core.py`) is written in Python 3.x and designed to 
 </svg>
 
 ![Upl<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000" role="img" aria-labelledby="t d">
-<title id="t">AstraVital open-front crew health kiosk concept</title><desc id="d">Concept illustration of a non-diagnostic crew check-in kiosk with secure software workflow, dashboard, badge tap, local compute and isolated power module. Not flight qualified.</desc>
-<defs><linearGradient id="bg" x2="0" y2="1"><stop stop-color="#09172b"/><stop offset="1" stop-color="#102944"/></linearGradient><linearGradient id="panel" x2="0" y2="1"><stop stop-color="#193959"/><stop offset="1" stop-color="#0c2036"/></linearGradient><style>.h{font:700 34px Arial;fill:#f2fbff}.s{font:18px Arial;fill:#a9c4d5}.label{font:700 17px Arial;fill:#56e0ea}.body{font:16px Arial;fill:#e6f3f8}.muted{font:14px Arial;fill:#9bb4c4}.value{font:700 21px Arial;fill:#fff}</style></defs>
-<rect width="1600" height="1000" rx="28" fill="url(#bg)"/><text class="h" x="64" y="67">ASTRAVITAL | CREW HEALTH &amp; CARE SYSTEM</text><text class="s" x="64" y="101">Open-front software kiosk concept • daily self-check • local/offline operation • educational prototype</text>
-<!-- kiosk body -->
-<path d="M170 250 L690 180 L790 230 L790 760 L265 830 L170 780Z" fill="#061321" stroke="#31536e" stroke-width="5"/><path d="M200 245 L670 185 L745 225 L745 720 L270 786 L200 750Z" fill="url(#panel)" stroke="#5bdce7" stroke-width="4"/><path d="M745 225 L790 247 L790 760 L745 720Z" fill="#08192a" stroke="#31536e" stroke-width="4"/>
-<!-- screen -->
-<rect x="248" y="275" width="430" height="330" rx="20" fill="#061322" stroke="#69e5ec" stroke-width="4"/><text x="278" y="315" class="label">ASTRAVITAL CHECK-IN</text><text x="278" y="344" class="muted">Kaleb Vance · ASTRO_01_KALEB • Mission day 042</text>
-<rect x="278" y="370" width="370" height="58" rx="10" fill="#113c3d" stroke="#3ecb9a" stroke-width="2"/><circle cx="303" cy="399" r="9" fill="#51e0aa"/><text x="324" y="405" class="value">CHECK-IN COMPLETE</text>
-<text x="280" y="463" class="label">TODAY'S SELF-REPORTED CHECK</text><text x="280" y="492" class="body">Sleep  7.2 h</text><text x="490" y="492" class="body">Fatigue  2 / 5</text><text x="280" y="524" class="body">Mood  Steady</text><text x="490" y="524" class="body">Data source  Self-report</text>
-<rect x="278" y="548" width="370" height="38" rx="8" fill="#293243" stroke="#f2bd62"/><text x="294" y="573" class="muted">TREND TO REVIEW · synthetic record</text>
-<!-- controls -->
-<rect x="280" y="630" width="190" height="56" rx="12" fill="#173a55" stroke="#8aaec1" stroke-width="2"/><text x="375" y="665" text-anchor="middle" class="body">BADGE TAP / ROSTER ID</text><rect x="490" y="630" width="158" height="56" rx="12" fill="#173a55" stroke="#8aaec1" stroke-width="2"/><text x="569" y="665" text-anchor="middle" class="body">HELP / GUIDE</text><rect x="325" y="710" width="280" height="38" rx="10" fill="#0c1c2e" stroke="#53dce5" stroke-width="2"/><text x="465" y="735" text-anchor="middle" class="muted">Optional isolated wearable data port</text>
-<!-- right modules -->
-<rect x="816" y="260" width="30" height="120" rx="6" fill="#2e526c"/><rect x="816" y="570" width="30" height="120" rx="6" fill="#2e526c"/><text x="220" y="890" class="muted">OPEN FRONT • no camera • no sample collection • no diagnostic claim</text>
-<!-- right info cards -->
-<text x="900" y="195" class="h" style="font-size:25px">CONCEPT ARCHITECTURE</text><text x="900" y="226" class="s">Illustrative physical layout; host interfaces remain TBD</text>
-<rect x="900" y="260" width="610" height="115" rx="16" fill="#102b43" stroke="#55dce7" stroke-width="2"/><text x="928" y="297" class="label">01 • USER INTERACTION</text><text x="928" y="328" class="body">Touch display • large text • physical badge reader</text><text x="928" y="352" class="muted">Roster ID selection; no camera identification.</text>
-<rect x="900" y="395" width="610" height="130" rx="16" fill="#102b43" stroke="#55dce7" stroke-width="2"/><text x="928" y="432" class="label">02 • LOCAL EDGE COMPUTE</text><text x="928" y="463" class="body">SBC / MCU • encrypted local storage • offline queue</text><text x="928" y="493" class="muted">Select protocols and security controls after requirements are defined.</text>
-<rect x="900" y="545" width="610" height="145" rx="16" fill="#102b43" stroke="#f2bd62" stroke-width="2"/><text x="928" y="582" class="label" style="fill:#ffd27f">03 • POWER FRONT END — STUDENT CONCEPT</text><text x="928" y="613" class="body">Bench DC input → fuse / reverse protection → TVS*</text><text x="928" y="642" class="body">→ regulated rails → compute + display</text><text x="928" y="670" class="muted">*Actual input voltage, transients, grounding and connector: vehicle-specific TBD.</text>
-<rect x="900" y="710" width="610" height="100" rx="16" fill="#102b43" stroke="#55dce7" stroke-width="2"/><text x="928" y="747" class="label">04 • FUTURE DATA CONNECTORS</text><text x="928" y="778" class="body">Approved wearable / dosimeter interfaces • isolated, optional</text>
-<text x="64" y="953" class="muted">Concept only — not an engineering drawing, medical device, NASA design, or flight-qualified hardware.</text>
-</svg>
+
+
 oading AstraVital_OpenFront_Kiosk_Dashboard_Concept.svg…]()
 
