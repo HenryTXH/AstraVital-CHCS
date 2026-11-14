@@ -36,6 +36,11 @@
 - **Power Protection Topology:** Engineered for spacecraft 28V DC microgrid buses with Transient Voltage Suppressor (TVS) surge-protection diodes and high-efficiency buck converters providing regulated 5V and 3.3V rails.
 - **Structural Enclosure:** Ruggedized Anodized Aluminum 6061-T6 chassis with built-in stabilization grab-rails for microgravity handling and fanless thermal dissipation.
 
+<div align="center">
+  <img width="48%" alt="Power Protection & Microgrid Integration Schematic" src="https://github.com/user-attachments/assets/54ddae55-b78c-4579-a087-503192796e59" />
+  <img width="48%" alt="Structural Enclosure Cutaway" src="https://github.com/user-attachments/assets/5874b89a-468a-4226-8689-0b36aae3a595" />
+</div>
+
 ---
 
 ## 🚀 Core Application Features
