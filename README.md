@@ -18,6 +18,8 @@
 </div>
 
 > **Figure: Privacy-First NFC Crew Smart Card and AstraVital Edge Kiosk Architecture.**  
+<img width="1376" height="768" alt="AstraVital_NFC " src="https://github.com/user-attachments/assets/179bf3ac-7ff5-4ac4-8660-dcc2a815c277" />
+<img width="1408" height="768" alt="AstraVital_kiosk" src="https://github.com/user-attachments/assets/389e0efd-0b4f-4997-8379-6ebb826d9ac2" />
 > These visuals illustrate our offline health monitoring workflow: astronauts tap their battery-free NFC Smart Card against the kiosk's inductive pad to authenticate locally on the onboard edge computer. A physical hardware kill-switch ensures zero camera surveillance, protecting astronaut privacy while guaranteeing 100% operational autonomy during deep-space transit.
 
 ---
@@ -43,5 +45,4 @@ The core engine (`astravital_core.py`) is written in Python 3.x and designed to 
 
 <img width="1754" height="1240" alt="AstraVital _ Crew Health   Care System (CHCS)_page-0002" src="https://github.com/user-attachments/assets/3ad52e34-6d46-49a9-8b3d-04079ab7770b" />
 
-<img width="1376" height="768" alt="AstraVital_NFC " src="https://github.com/user-attachments/assets/179bf3ac-7ff5-4ac4-8660-dcc2a815c277" />
-<img width="1408" height="768" alt="AstraVital_kiosk" src="https://github.com/user-attachments/assets/389e0efd-0b4f-4997-8379-6ebb826d9ac2" />
+
